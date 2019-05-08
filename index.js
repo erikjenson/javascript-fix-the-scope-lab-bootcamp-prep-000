@@ -29,5 +29,5 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 var whereIsthefunk = funkyFunction() 
 //var theFunk = whereIsthefunk()
-console.log(whereIsthefunk())
+console.log(funkyFunction())
 
